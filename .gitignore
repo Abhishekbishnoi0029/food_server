@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Logs
+*.log
+*.stackdump
+
+# Optional files
+.env
+.DS_Store
